@@ -4,7 +4,6 @@
 #include <Adafruit_ST7796S.h>
 #include <Fonts/FreeSansBold18pt7b.h> // A custom font
 #include <SPI.h>
-#include "DHT.h"
 
 #define I2C_SDA A4
 #define I2C_SCL A5
